@@ -1,15 +1,15 @@
-# Chicago Crimes 2025 Project
+## Chicago Crimes 2025 Project
 
-## Задачи проекта: 
-- Используя данные о преступлениях в Чикаго с использованием набора данных Chicago Crime Dataset, определить самые частые виды преступлений, определить, какие преступления чаще приводят к арестам, изучить географическое распределение преступлений.
+## Project Objectives: 
+- Using Chicago crime data from the Chicago Crime Dataset, identify the most frequent types of crime, determine which crimes are more likely to result in arrests, examine the geographic distribution of crime.
 
-## Описание проекта:
-- Этот проект анализирует данные о преступлениях в Чикаго с использованием набора данных Chicago Crime Dataset. В ходе работы определяются основные тенденции преступности, исследуются самые распространенные типы преступлений, выявляются закономерности в географическом распределении.
+## Project Description:
+- This project analyzes crime data in Chicago using the Chicago Crime Dataset. The work identifies major crime trends, examines the most common types of crimes, and identifies patterns in geographic distribution.
 
-## Используемые инструменты
+## Tools used
 - Python 
 - Pandas 
 - Matplotlib
 - Folium 
 
-_**Статус проекта: Завершён**_
+_**Project Status: Completed**_
