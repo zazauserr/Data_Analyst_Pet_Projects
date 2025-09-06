@@ -1,0 +1,8 @@
+# Power BI
+*.pbix
+# Data files (if sensitive)
+data/raw/
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
