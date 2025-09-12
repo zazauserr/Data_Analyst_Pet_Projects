@@ -18,6 +18,7 @@ Comprehensive analytics project analyzing UK-based e-commerce sales data (2009-2
 | **PostgreSQL** | Data storage & advanced analytics |
 | **Python (Pandas, NumPy, Matplotlib)** | Data preprocessing & exploration |
 | **Power BI** | Interactive dashboard creation |
+| **Tableau** | Interactive dashboard creation |
 | **SQL** | Complex analytical queries (CTEs, Window Functions) |
 
 ## 📈 Dashboard Overview
