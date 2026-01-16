@@ -23,9 +23,9 @@ To assess the impact, we focus on the following KPIs:
 **Reject the change.** Moving the gate to level 40 negatively impacts long-term player retention. I recommend keeping the gate at **Level 30** to maximize player lifetime value (LTV).
 
 ---
-###  Project Structure
-* [cite_start]`sql/`: SQL scripts for data retrieval. 
-* [cite_start]`notebooks/`: Detailed Jupyter Notebook with Python code and visualizations. 
-* [cite_start]`data/`: Source dataset (Cookie Cats). 
+##  Project Structure
+* **sql/** : SQL scripts for data retrieval.
+* **notebooks/** : Detailed Jupyter Notebook with Python code and visualizations.
+* **data/** : Source dataset (Cookie Cats).
 
-[cite_start]**Author:** Bohdan Kudelia
+**Author:** Bohdan Kudelia
