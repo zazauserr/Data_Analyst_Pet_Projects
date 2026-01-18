@@ -25,7 +25,7 @@ To assess the impact, we focus on the following KPIs:
 ---
 ##  Project Structure
 * **sql/** : SQL scripts for data retrieval.
-* **notebooks/** : Detailed Jupyter Notebook with Python code and visualizations.
+* **python/** : Detailed Jupyter Notebook with Python code and visualizations.
 * **data/** : Source dataset (Cookie Cats).
 
 **Author:** Bohdan Kudelia
